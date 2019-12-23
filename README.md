@@ -1,3 +1,3 @@
-#Configure project steps:
+## Configure project steps:
 
 php artisan jwt:secret
